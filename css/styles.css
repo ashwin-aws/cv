@@ -4,8 +4,8 @@ body{
 
 hr{
   border-style: dotted;
-  border-width: "6px 0 0 0";
-  width: "0.3%";
   border-color: grey;
+  border-width: 6px 0 0 0;
   opacity: 0.2;
+  width:3%;
 }
